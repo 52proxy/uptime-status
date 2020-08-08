@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '站点状态监控---Oriole-Proxy',
+  SiteName: 'Oriole-Proxy',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,7 +24,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Oriole-Proxy',
+      text: 'Home',
       url: 'https://52proxy.xyz'
     }
   ]
