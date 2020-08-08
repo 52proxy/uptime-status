@@ -24,8 +24,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '项目主页',
-      url: 'https://github.com/geekyouth/uptime-status'
+      text: 'Oriole-Proxy',
+      url: 'https://52proxy.xyz'
     }
   ]
 };
